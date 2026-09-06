@@ -1,7 +1,7 @@
 console.log(`Multivariable Calc`);
 console.log(`yess queen`);
 
-window.alert(`this is an alert`)
+
 
 // This is a test
 
