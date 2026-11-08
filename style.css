@@ -1,6 +1,15 @@
+
+@font-face {
+    font-family: 'IBMRegu';
+    src: url('c:\Users\admin\Downloads\IBM_Plex_Serif\IBMPlexSerif-Regular.ttf')
+     format('truetype');
+     font-weight:  normal;
+     font-style: normal;
+}
 body{
 background-color: bisque;
 font-family: Verdana;
+text-align: center;
 
 }
 #p1{
@@ -8,9 +17,10 @@ font-family: Verdana;
 }
 h1{
     text-align: center;
+    font-family: ;
 }
 h2{
     text-align: center;
     font-size: large;
-    font-family: 'Times New Roman';
+    font-family:,';
 }
