@@ -9,7 +9,8 @@
 body{
 background-color: bisque;
 font-family: Verdana;
-text-align: center;
+text-align:  center;
+
 
 }
 #p1{
@@ -17,10 +18,10 @@ text-align: center;
 }
 h1{
     text-align: center;
-    font-family: ;
+    font-family:'IBMRegu' ;
 }
 h2{
     text-align: center;
     font-size: large;
-    font-family:,';
+    font-family:,'IBMRegu'
 }
