@@ -14,14 +14,13 @@ height:  100vh;
 margin:  0;
 font-family: Verdana;
 text-align:  center;
-
+}
 .context-box {
     width: 50%;
     max-width: 300px;
     min-height: 80vh;
     border-radius: 12px;
     background-color: seashell;
-    align-content: center;
     margin: 0 auto;
 }
 
