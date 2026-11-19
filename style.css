@@ -16,7 +16,7 @@ font-family: Verdana;
 text-align:  center;
 
 .context-box {
-    width: 100%;
+    width: 50%;
     max-width: 1200px;
     min-height: 80vh;
     border-radius: 12px;
